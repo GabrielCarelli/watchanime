@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🧠 OtakuHub
 
-## Getting Started
+Welcome to **OtakuHub** — a sleek and minimal anime explorer built with cutting-edge tools like **Next.js**, **Tailwind CSS**, and the elegant **shadcn/ui** component library. Whether you're a fellow otaku or just curious about how to deploy on **Vercel**, this project was born from a personal learning journey into smooth deployment workflows.
 
-First, run the development server:
+## 🚀 Live Demo
+
+👉 [Check out OtakuHub on Vercel](https://watchanime-jade.vercel.app/)
+
+## 🎯 About This Project
+
+I built this app in just a few minutes—mainly to overcome some past headaches I had with Vercel deployments. But what started as a simple experiment quickly turned into a slick little anime browser using the awesome [Shikimori API](https://shikimori.one/api/doc).
+
+> Think of it as a playground turned potential project. The goal was to **study deployment**, but there's definitely room to grow!
+
+## 🛠️ Tech Stack
+
+- **Next.js** – React framework for server-side rendering and fast navigation
+- **Tailwind CSS** – Utility-first CSS for rapid UI development
+- **shadcn/ui** – Beautiful and accessible UI components
+- **Shikimori API** – Rich anime data straight from the source
+
+## 🧪 Getting Started
+
+Wanna try it locally? Here's how:
 
 ```bash
+# Clone the repo
+git clone https://github.com/GabrielCarelli/otakuhub.git
+cd otakuhub
+
+# Install dependencies
+npm install
+
+# Run the development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) and start exploring!
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🌱 What's Next?
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Although OtakuHub started as a deployment study, there's potential to grow it into a full-fledged anime dashboard. Some future ideas:
 
-## Learn More
+- 🔍 Anime search and filtering
+- ❤️ Favorites and watchlists
+- 🧭 User accounts and preferences
+- 📱 Responsive enhancements
 
-To learn more about Next.js, take a look at the following resources:
+## 🤝 Contributing
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This is a one-dev project for now, but if you’re passionate about anime and Next.js, feel free to fork it or suggest features!
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Made with ❤️, caffeine, and way too many anime tabs open.
