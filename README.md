@@ -25,7 +25,7 @@ Wanna try it locally? Here's how:
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/otakuhub.git
+git clone https://github.com/GabrielCarelli/otakuhub.git
 cd otakuhub
 
 # Install dependencies
