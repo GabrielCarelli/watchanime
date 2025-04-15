@@ -1,6 +1,6 @@
-# 🧠 OtakuHub
+# 🧠 AnimeHub
 
-Welcome to **OtakuHub** — a sleek and minimal anime explorer built with cutting-edge tools like **Next.js**, **Tailwind CSS**, and the elegant **shadcn/ui** component library. Whether you're a fellow otaku or just curious about how to deploy on **Vercel**, this project was born from a personal learning journey into smooth deployment workflows.
+Welcome to **AnimeHub** — a sleek and minimal anime explorer built with cutting-edge tools like **Next.js**, **Tailwind CSS**, and the elegant **shadcn/ui** component library. Whether you're a fellow otaku or just curious about how to deploy on **Vercel**, this project was born from a personal learning journey into smooth deployment workflows.
 
 ## 🚀 Live Demo
 
